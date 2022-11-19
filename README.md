@@ -1,18 +1,14 @@
-<!--
-**dangatavi/Dangatavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-              
-
+             
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, Welcome to Datacave</h1>
 <h3 align="center">Data scientist || Blogger || Gamer </h3>
 
 <h5 align="center"><i>(Lets have a little talk ...)</i></h5>
 
-[![Kaggle Badge](https://img.shields.io/badge/-Avinash's_kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/avinashdangat)](https://www.kaggle.com/avinashdangat)
+[![Kaggle Badge](https://img.shields.io/badge/-Amrit's_kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/amritsingh02)](https://www.kaggle.com/amritsingh02)
 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/avdangat)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/avinash-dangat-857a21136/)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/01_Sangramsingh)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/amrit-pritam-sangramsingh-493b7a176//)
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/avi.dangat.9/)
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/avidangat/)
 <a href="mailto:dangatavi@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a> 
