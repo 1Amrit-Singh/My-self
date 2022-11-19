@@ -33,8 +33,8 @@ I am a Data scientist and also a Full Stack Developer <img src="https://media.gi
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Kaggle Badge](https://img.shields.io/badge/-Amrit's_kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/amritsingh02)](https://www.kaggle.com/amritsingh02)
-
+- :mailbox:How to reach me:
+[![Kaggle Badge](https://img.shields.io/badge/-Amrit's_kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/amritsingh02)](https://www.kaggle.com/amritsingh02)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/01_Sangramsingh)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/amrit-pritam-sangramsingh-493b7a176//)
 <a href="mailto:amritpritam20@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a> 
