@@ -35,11 +35,7 @@ I am a Data scientist and also a Full Stack Developer <img src="https://media.gi
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
- <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="400"/>
  
-
-
-
 ---
 height=400 width=550
 width="600" height="300"
