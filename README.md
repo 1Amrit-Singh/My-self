@@ -43,8 +43,11 @@ I am a Data scientist and also a Full Stack Developer <img src="https://media.gi
    <a href="mailto:amritpritam20@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a> 
  
 ---
-height=400 width=550
-width="600" height="300"
+## my contribution graph get eaten by the snake 🐍:
+<img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
+
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, Welcome to Datacave</h1>
