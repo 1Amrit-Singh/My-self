@@ -22,6 +22,9 @@
   you want to know
 </h1>
 
+
+<img align="right" img height=400 width=550 alt="GIF" src="https://i.pinimg.com/originals/a0/f8/5c/a0f85c35e406acb5b84c13dae888d5a3.gif" />
+
 ### :man_technologist: About Me :
 I am a Data scientist and also a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
  :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -32,8 +35,8 @@ I am a Data scientist and also a Full Stack Developer <img src="https://media.gi
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
- 
  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="400"/>
+ 
 
 
 
