@@ -23,7 +23,7 @@
 </h1>
 
 
-<img align="right" img width="600" height="300" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
+<img align="right" img height=400 width=550 alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
 ### :man_technologist: About Me :
 I am a Data scientist and also a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
