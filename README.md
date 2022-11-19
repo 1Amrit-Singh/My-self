@@ -24,7 +24,7 @@
  <div >
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<img align="right" img height=400 width=550 alt="GIF" src="https://i.pinimg.com/originals/a0/f8/5c/a0f85c35e406acb5b84c13dae888d5a3.gif" />
+
 ---
 
 ### :man_technologist: About Me :
