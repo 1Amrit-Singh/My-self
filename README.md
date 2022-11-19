@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 I am a Data scientist and also a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ :telescope: I’m working as a Software Engineer and contributing end to end web applications like frontend,backend,mechine learing and deep learing based model prepairation,solution design architecture,optimizing the solution,ops pipelines and whole deploying on cloud .
 
 - :seedling: Exploring Technical Content Writing.
 
