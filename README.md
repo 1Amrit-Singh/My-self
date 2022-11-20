@@ -59,13 +59,16 @@ I am a Data scientist and also a Full Stack Developer <img src="https://media.gi
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
  </div>
 
 #### Lib/Framework
-
-
-
+ <div>
+  <img src="https://github.com/numpy/numpy/blob/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://matplotlib.org/_static/logo2.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  
+ </div>
 ---
 
 <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
