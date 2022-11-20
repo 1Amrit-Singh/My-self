@@ -46,6 +46,8 @@ I am a Data scientist and also a Full Stack Developer <img src="https://media.gi
 ## my contribution graph get eaten by the snake 🐍:
 <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
 
+---
+
 ### :hammer_and_wrench: Languages, Tools and Technologies:
 
 #### Languages
@@ -58,11 +60,18 @@ I am a Data scientist and also a Full Stack Developer <img src="https://media.gi
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- 
-</div>
+ </div>
+
+#### Lib/Framework
+
 
 
 ---
+
+<img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1Amrit-Singh&theme=dark&background=000000)](https://git.io/streak-stats)
