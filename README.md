@@ -64,9 +64,9 @@ I am a Data scientist and also a Full Stack Developer <img src="https://media.gi
 
 #### Lib/Framework
  <div>
-  <img src="https://github.com/numpy/numpy/blob/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" title="Numpy" alt="Numpy" width="80" height="60"/>&nbsp;
-  <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://matplotlib.org/_static/logo2.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/numpy/numpy/blob/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" title="Numpy" alt="Numpy" width="100" height="80"/>&nbsp;
+  <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" title="Pandas" alt="Pandas" width="100" height="80"/>&nbsp;
+  <img src="https://matplotlib.org/_static/logo2.svg" title="Matplotlib" alt="Matplotlib" width="100" height="80"/>&nbsp;
   
  </div>
 ---
