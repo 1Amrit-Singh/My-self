@@ -1,87 +1,79 @@
-<!-- Profile Banner -->
+<!-- Header -->
 <p align="center">
   <img src="https://your-profile-banner-url.com/banner.png" alt="Profile Banner">
 </p>
 
-<!-- Introduction -->
-<h1 align="center">Hi there, I'm John Doe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm John Doe</h1>
+<h3 align="center">Data Scientist | Freelancer</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/johndoe"><img src="https://img.shields.io/badge/-John%20Doe-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/johndoe"><img src="https://img.shields.io/badge/-@johndoe-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="mailto:john.doe@example.com"><img src="https://img.shields.io/badge/-john.doe@example.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/johndoe"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://twitter.com/johndoe"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="mailto:john.doe@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <!-- About Me -->
 ## About Me
 
-Hello! I'm John, a passionate **Full-Stack Developer** and **Freelancer** with over 5 years of experience in creating dynamic and user-friendly web applications. I specialize in **React**, **Node.js**, **Python**, and **Django**.
+I'm a passionate **Data Scientist** and **Freelancer** with over 5 years of experience in extracting meaningful insights from data and building data-driven solutions. I specialize in **Machine Learning**, **Deep Learning**, and **Data Visualization**.
 
-- 💼 Currently available for freelance projects and remote job opportunities.
-- 🌱 Continuously learning and exploring new technologies to enhance my skill set.
-- 💬 Let's connect! I'm always open to discussing new projects and opportunities.
+- 💼 Available for freelance projects and remote job opportunities.
+- 🌱 Currently learning **Reinforcement Learning** and **Big Data Technologies**.
+- 💬 Ask me about **Data Analysis**, **Machine Learning**, **Python**.
+- 📫 How to reach me: [john.doe@example.com](mailto:john.doe@example.com)
+- ⚡ Fun fact: I enjoy hiking and solving puzzles.
 
 <!-- Skills -->
 ## Skills
 
-### Languages & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
-</p>
+**Programming Languages:**
+- Python, R, SQL
 
-### Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
-</p>
+**Machine Learning & Data Science:**
+- Scikit-Learn, TensorFlow, Keras, PyTorch, Pandas, NumPy
+
+**Data Visualization:**
+- Matplotlib, Seaborn, Plotly, Tableau
+
+**Tools & Platforms:**
+- Jupyter, Git, Docker, AWS, Google Cloud, Hadoop, Spark
 
 <!-- GitHub Stats -->
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical" alt="John Doe's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=default" alt="John Doe's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
-<!-- Projects Showcase -->
+<!-- Featured Projects -->
 ## Featured Projects
 
-### Project X
-- Description: A brief description of Project X.
-- Technologies: React, Node.js, MongoDB
-- [Repository](https://github.com/johndoe/project-x)
+**Project Alpha**
+- Description: A predictive model to forecast sales.
+- Technologies: Python, Scikit-Learn, Pandas
+- [Repository](https://github.com/johndoe/project-alpha)
 
-### Project Y
-- Description: A brief description of Project Y.
-- Technologies: Django, PostgreSQL
-- [Repository](https://github.com/johndoe/project-y)
+**Project Beta**
+- Description: An image classification system using deep learning.
+- Technologies: TensorFlow, Keras, OpenCV
+- [Repository](https://github.com/johndoe/project-beta)
 
-### Project Z
-- Description: A brief description of Project Z.
-- Technologies: Python, Flask, SQLite
-- [Repository](https://github.com/johndoe/project-z)
+**Project Gamma**
+- Description: A dashboard for visualizing business metrics.
+- Technologies: Plotly, Dash, Flask
+- [Repository](https://github.com/johndoe/project-gamma)
 
-<!-- Connect with me -->
-## Connect with Me
+<!-- Contact -->
+## Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/johndoe"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://twitter.com/johndoe"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://github.com/johndoe"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-  <a href="mailto:john.doe@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/johndoe"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://twitter.com/johndoe"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="mailto:john.doe@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <!-- Profile Views -->
-## Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=johndoe&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=johndoe&style=flat-square&color=blue" alt="Profile views" />
 </p>
